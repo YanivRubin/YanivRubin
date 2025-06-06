@@ -1,6 +1,6 @@
+## lol title
 - Hi, I’m @YanivRubin
-- I’m interested in random things for my D&D games, and my Assembly project for high school  
-- I’m currently learning Python, Java and Assembly
+- I have a github account. That makes me a real programmer, right?
 - You can reach me on my gmail: yanivyzr@gmail.com
 
 <!---
