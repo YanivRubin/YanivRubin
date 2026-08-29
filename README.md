@@ -1,6 +1,5 @@
-## lol title
-- Hi, I’m @YanivRubin
-- I have a github account. That makes me a real programmer, right?
+## Yaniv Rubin
+- @YanivRubin ; Github for personal projects
 - You can reach me on my gmail: yanivyzr@gmail.com
 
 <!---
